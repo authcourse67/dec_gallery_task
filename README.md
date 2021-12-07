@@ -1,3 +1,3 @@
 # gallery-task
 
-* Starter files for a basic html and css assignment
+* Basic html and css assignment. Solved!!!
